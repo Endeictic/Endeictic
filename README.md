@@ -3,10 +3,6 @@
 #### I'm Endeictic, i just do random stuff
 
 - 🚹He/Him
-
-## Other Places where you can find me
-
-- [<img src="https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d4.png" alt="Twitter" width="48">](https://twitter.com/CelloPlayzYT)
 <!--
 **Endeictic/Endeictic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
